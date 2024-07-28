@@ -22,3 +22,17 @@ git reset HEAD filename
 scenario 3
 roll back commit
 git reset 0dc2fe2
+
+------ branching -----
+--how many branches in ur system--
+-git branch
+--creating new branch
+-git branch featureA
+
+--main branch to featureA
+-git checkout featureA
+
+
+
+
+
