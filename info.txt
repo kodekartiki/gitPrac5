@@ -35,6 +35,9 @@ git reset 0dc2fe2
 git branch -d/-D featureB
 git branch -D featureA
 
+git pull origin main
+git push origin main
+
 
 
 
