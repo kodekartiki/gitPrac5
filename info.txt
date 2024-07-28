@@ -30,7 +30,9 @@ git reset 0dc2fe2
 -git branch featureA
 
 --main branch to featureA--
--git checkout featureA
+-git checkout featureA(branchname)
+
+
 
 
 
