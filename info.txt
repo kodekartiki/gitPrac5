@@ -22,4 +22,3 @@ git reset HEAD filename
 scenario 3
 roll back commit
 git reset 0dc2fe2
-q
